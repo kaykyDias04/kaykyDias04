@@ -7,7 +7,7 @@
     💻 Software Engineering
     📖 Current learning Java
     🎮 Music • Games • Anime • Code • Mangá
-    🐾 Bite • Luci • Filó • Frajola
+    🐾 Bite • Luci • Filó • Frajola • Amendoim
 </pre>
 <br><br>
 <img src="https://img.icons8.com/?size=512&id=y8q66v6ExjBy&format=png" height="40" />
