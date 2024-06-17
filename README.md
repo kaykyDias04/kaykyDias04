@@ -9,10 +9,13 @@
     🎮 Music • Games • Anime • Code • Mangá
     🐾 Bite • Luci • Filó • Frajola • Amendoim
 </pre>
-<br><br>
+
+<br>
 <img src="https://img.icons8.com/?size=512&id=y8q66v6ExjBy&format=png" height="40" />
-<br><br><br>
+<br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/kayky-dias-oliveira)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaykyDias04&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
     
 </div>
