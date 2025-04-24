@@ -3,10 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=d50000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Welcome+to+my+GitHub;" width="70%" />
 <br><br>
 <pre>
-    💼 CESAR School • Back-end dev / Student
+    💼 CESAR School • Data Analyst / Student
     💻 Software Engineering
-    📖 Current learning Python
-    🎮 Music • Games • Anime • Code • Mangá
+    📖 Python | Data Analytics | Power BI | Excel | Pandas
+    🎮 Music • Games • Anime • Code • Data • Mangá
     🐾 Luci • Filó • Frajola • Amendoim
 </pre>
 
@@ -17,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/kayky-dias-oliveira)
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="25px" height="25px"></a>
+<a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="25px" height="25px"></a>
 <a href=" https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="25px" height="25px"></a>
 <a href=" https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="25px" height="25px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="27px" height="27px"></a>
