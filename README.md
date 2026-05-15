@@ -4,10 +4,10 @@
 <br><br>
 <pre>
     💼 CESAR School • Data Analyst / Student
-    💻 Software Engineering
-    📖 Python | Power BI | Pandas | Typescript | React | Next.js
+    💻 Software Engineering | Data Analysis
+    📖 Python | | Pandas | Power BI | Data Studio | Typescript | React | Next.js
     🎮 Music • Games • Anime • Code • Data • Mangá
-    🐾 Luci • Filó • Frajola • Amendoim
+    🐾 Lucinda • Filomena • Frajola • Amendoim
 </pre>
 
 <br>
