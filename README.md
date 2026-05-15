@@ -5,7 +5,7 @@
 <pre>
     💼 CESAR School • Data Analyst / Student
     💻 Software Engineering | Data Analysis
-    📖 Python | | Pandas | Power BI | Data Studio | Typescript | React | Next.js
+    📖 Python | Pandas | Power BI | Data Studio | Typescript | React | Next.js
     🎮 Music • Games • Anime • Code • Data • Mangá
     🐾 Lucinda • Filomena • Frajola • Amendoim
 </pre>
